@@ -93,13 +93,13 @@ Al tratarse de un certificado autofirmado, el navegador muestra una advertencia 
 
 La siguiente captura muestra el mensaje de seguridad que aparece al acceder al sitio mediante HTTPS.
 
-(evidencias/conexion-no-segura.png)
+![](evidencias/conexion-no-segura.png)
 
 ### Evidencia 3. Detalles del certificado
 
 En esta captura se muestran los detalles del certificado utilizado por el sitio, incluyendo su información de identificación y los datos de validez.
 
-(evidencias/detalles-certificado-navegador.png)
+![](evidencias/detalles-certificado-navegador.png)
 
 ## 7. Comprobaciones realizadas
 
